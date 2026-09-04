@@ -1,0 +1,8 @@
+.weatherBox{
+    width: 100rem;
+    height: 40rem; 
+    display: flex; 
+    background-color: #0073cf;
+    background-image: linear-gradient(315deg, #0073cf 0%, #f2f0ef 74%);
+    border-radius: 10px;
+}
